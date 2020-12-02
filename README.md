@@ -1,7 +1,7 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on ecommerce website for an artist
-- 🌱 I’m currently learning openCV
+- 🔭 I’m currently working on the ecommerce website for an artist
+- 🌱 I’m currently learning an openCV library
 
 [![Serhii's github stats](https://github-readme-stats.vercel.app/api?username=smoonmare&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <!--
