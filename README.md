@@ -2,9 +2,10 @@
 
 - 🔭 I’m currently working on the ecommerce website for an artist
 - 🌱 I’m currently learning the algorithm design
+- :books: I'm currently reading "The Autobiography of Benjamin Franklin" by Benjamin Franklin
 
 
-⚡ Fun fact: Over 1 million known species of plants and animals live there, and scientists say there may be as many as 9 million species we haven't discovered yet. Marine animals come in all kinds of weird shapes, sizes, and colors; and they live in all kinds of different environments within the ocean.
+⚡ Fun fact: In many Eurasian languages, chai or cha is the word for tea. This comes from the Persian چای chay, which originated from the Cantonese Chinese word for tea 茶 chá. (The English word 'tea', on the other hand, comes from the Teochew dialect of Chinese "teeh".)
 <!--
 **smoonmare/smoonmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
