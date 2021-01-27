@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on the ecommerce website for an artist
 - 🌱 I’m currently learning the algorithm design
 - :books: I'm currently reading "The Autobiography of Benjamin Franklin" by Benjamin Franklin
-
+- 📫 29/200 Sudoku pazzles solved
 
 ⚡ Fun fact: In many Eurasian languages, chai or cha is the word for tea. This comes from the Persian چای chay, which originated from the Cantonese Chinese word for tea 茶 chá. (The English word 'tea', on the other hand, comes from the Teochew dialect of Chinese "teeh".)
 <!--
