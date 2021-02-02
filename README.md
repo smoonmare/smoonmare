@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 - 🔭 I’m currently working on the ecommerce website for an artist
-- 🌱 I’m currently learning the algorithm design
+- 🌱 I’m currently learning Angular Framework
 - :books: I'm currently reading "The Autobiography of Benjamin Franklin" by Benjamin Franklin
 - 📫 29/200 Sudoku pazzles solved
 
